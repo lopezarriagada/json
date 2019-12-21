@@ -1,0 +1,8 @@
+{
+   "localidad": {
+      "nombre": "TALCA",
+      "nivel_radiacion": "4",
+      "DEM": "20",
+      "FPS": "30"
+   }
+}
